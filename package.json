@@ -1,0 +1,24 @@
+{
+  "name": "vanilla-stores",
+  "version": "1.0.0",
+  "description": "Vanilla JavaScript implementations fo Todo-Item stores. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lean-todo/vanilla-stores.git"
+  },
+  "keywords": [
+    "localstorage",
+    "ajax",
+    "indexeddb"
+  ],
+  "author": "Micha Alt <todo@lean-stack.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lean-todo/vanilla-stores/issues"
+  },
+  "homepage": "https://github.com/lean-todo/vanilla-stores#readme"
+}
